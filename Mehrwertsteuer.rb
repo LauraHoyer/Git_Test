@@ -1,4 +1,5 @@
 # Variablendefinition
+#Test Neu
 betrag = 250
 
 # Berechnung der Mehrwertsteuer
